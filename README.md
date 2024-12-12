@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/lilblackboot" target="blank"><img src="https://img.shields.io/twitter/follow/lilblackboot?logo=twitter&style=for-the-badge" alt="lilblackboot" /></a> </p>
 
-- 🔭 I’m currently working on **to do list**
+- 🔭 I’m currently working on **portfolio website**
 
-- 🌱 I’m currently learning **react js**
+- 🌱 I’m currently learning **next js**
 
 - 📫 How to reach me **suzanmansuri0000@gmail.com**
 
